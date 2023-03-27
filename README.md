@@ -1,4 +1,6 @@
 # nodejs-qrcode
+> Learning how to create qrcode with nodejs.
+
 # node-qrcode
 > QR code/2d barcode generator.
 
